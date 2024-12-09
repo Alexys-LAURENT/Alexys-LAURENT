@@ -1,5 +1,5 @@
 # 💫 About Me:
-😀 I'm Alexys LAURENT, 19<br>👨‍🎓 I'm a student at IRIS school in BTS for 2 years<br>📚 Passionate about mangas, animes, sneakers, skateboarding and web development<br>💻 I started coding in 2021<br>🔍 Here is a link to my portfolio :<br><br>https://alxys.fr/<br><br>
+😀 I'm Alexys LAURENT, 19<br>👨‍🎓 I'm a student at IRIS school in BTS for 2 years<br>📚 Passionate about mangas, animes, sneakers, skateboarding and web development<br>💻 I started coding in 2021<br>🔍 Here is a link to my portfolio :<br><br>https://alexyslaurent.fr/<br><br>
 
 
 ## 🌐 Socials:
